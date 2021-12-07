@@ -1,0 +1,17 @@
+class string Pro14{
+
+    public static void m(String s){
+         for (int index=0; index<s.length
+(); index++,System.out
+•printin()){
+System.out.print(s
+.substring(0, index+1)) ;
+}
+}
+}
+class String_Pro14_Testf
+public static void main(String
+...abc){
+String_Pro14.m("JAVALAYA");
+}
+}
